@@ -1,4 +1,4 @@
 Hi, im @JakeNauman
 Look around to see some of my more interesting coding projects
-I'm currently learning .NET development with C# and SQL
+I'm currently practicing C# development with .NET 
 jacobtnauman@gmail.com
