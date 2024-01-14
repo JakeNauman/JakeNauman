@@ -1,4 +1,8 @@
 Hi, im @JakeNauman
-Look around to see some of my more interesting coding projects
+
+Check out my portfolio to see more of my projects in depth!
+https://jakenauman.github.io/Portfolio/#/home
+
+
 I'm currently practicing C# development with .NET 
 jacobtnauman@gmail.com
