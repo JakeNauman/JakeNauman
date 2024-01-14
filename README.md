@@ -5,4 +5,5 @@ https://jakenauman.github.io/Portfolio
 
 
 I'm currently practicing C# development with .NET 
+
 jacobtnauman@gmail.com
